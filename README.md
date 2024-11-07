@@ -43,7 +43,7 @@ Welcome to my GitHub! I am a passionate **Web Developer** and **UI/UX Enthusiast
 
 Feel free to reach out to me if you're interested in **collaborating on projects**, **providing feedback**, or just having a chat about **web development** and **UI/UX design**.
 
-- 🌐 [Portfolio Website](https://tharushi1019.github.io/My-Portfolio/)
+- 🌐 [Portfolio Website]()
 - 📧 Email: [your-email@example.com](mailto:tharushinimnadee19@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/t-nimnadi/)
 
