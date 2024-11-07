@@ -26,7 +26,7 @@ Welcome to my GitHub! I am a passionate **Web Developer** and **UI/UX Enthusiast
 - Integrated **admin panel** with **login authentication** and **product management**.
 - Built using **HTML**, **CSS**, **PHP**, and **MySQL**.
 
-### 2. [Portfolio Website](https://tharushi1019.github.io/My-Portfolio/)
+### 2. [Portfolio Website].
 - A personal portfolio to showcase my **projects** and **skills**.
 - Built with **React.js** and **Vite** for fast performance and smooth interactions.
 - Responsive and designed with an eye for **UI/UX**.
