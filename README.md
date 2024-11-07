@@ -35,7 +35,7 @@ Welcome to my GitHub! I am a passionate **Web Developer** and **UI/UX Enthusiast
 - Created an **MVC-based lesson planner system** to organize lesson schedules.
 - Built using **Java** with **MySQL** integration.
 
-### 4. [Daily Mirror Website Redesign](https://github.com/tharushi1019/daily-mirror-redesign)
+### 4. [Daily Mirror Website Redesign](https://www.figma.com/design/dR8owZfqFdsR9pYQPl5dDr/Redesign-DailyMirror.lk-Website?node-id=0-1&t=SnDvxwsWIq8fnuS1-1)
 - Redesigned the **Daily Mirror** website to improve its user experience and layout.
 - Implemented modern **UI/UX design principles**.
 
