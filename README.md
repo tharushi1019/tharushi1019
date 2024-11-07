@@ -21,7 +21,7 @@ Welcome to my GitHub! I am a passionate **Web Developer** and **UI/UX Enthusiast
 
 ## 💡 Projects
 
-### 1. [Oven Crust Bakery Management System (BMS)](https://github.com/tharushi1019/bakery-shop)
+### 1. [Oven Crust Bakery Management System (BMS)](https://github.com/tharushi1019/Bakery-Shop-Web)
 - Developed a **dynamic bakery shop website** with **CRUD functionality**.
 - Integrated **admin panel** with **login authentication** and **product management**.
 - Built using **HTML**, **CSS**, **PHP**, and **MySQL**.
@@ -31,7 +31,7 @@ Welcome to my GitHub! I am a passionate **Web Developer** and **UI/UX Enthusiast
 - Built with **React.js** and **Vite** for fast performance and smooth interactions.
 - Responsive and designed with an eye for **UI/UX**.
 
-### 3. [Java Lesson Planner System](https://github.com/tharushi1019/Java-Lesson-Planner)
+### 3. [Java Lesson Planner System](https://github.com/tharushi1019/ITBIN-2211-0202)
 - Created an **MVC-based lesson planner system** to organize lesson schedules.
 - Built using **Java** with **MySQL** integration.
 
@@ -44,8 +44,8 @@ Welcome to my GitHub! I am a passionate **Web Developer** and **UI/UX Enthusiast
 Feel free to reach out to me if you're interested in **collaborating on projects**, **providing feedback**, or just having a chat about **web development** and **UI/UX design**.
 
 - 🌐 [Portfolio Website](https://tharushi1019.github.io/My-Portfolio/)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tharushi)
+- 📧 Email: [your-email@example.com](mailto:tharushinimnadee19@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/t-nimnadi/)
 
 ## 💬 Fun Facts
 - I enjoy reading **romantic fanfiction** and writing my own stories.
