@@ -21,15 +21,16 @@ Welcome to my GitHub! I am a passionate **Web Developer** and **UI/UX Enthusiast
 
 ## 💡 Projects
 
-### 1. [Oven Crust Bakery Management System (BMS)](https://github.com/tharushi1019/Bakery-Shop-Web)
-- Developed a **dynamic bakery shop website** with **CRUD functionality**.
-- Integrated **admin panel** with **login authentication** and **product management**.
-- Built using **HTML**, **CSS**, **PHP**, and **MySQL**.
 
-### 2. [Portfolio Website](https://tharushi1019.github.io/My-Portfolio/)
+### 1. [Portfolio Website](https://tharushi1019.github.io/My-Portfolio/)
 - A personal portfolio to showcase my **projects** and **skills**.
 - Built with **React.js** and **Vite** for fast performance and smooth interactions.
 - Responsive and designed with an eye for **UI/UX**.
+
+### 2. [Oven Crust Bakery Management System (BMS)](https://github.com/tharushi1019/Bakery-Shop-Web)
+- Developed a **dynamic bakery shop website** with **CRUD functionality**.
+- Integrated **admin panel** with **login authentication** and **product management**.
+- Built using **HTML**, **CSS**, **PHP**, and **MySQL**.
 
 ### 3. [Java Lesson Planner System](https://github.com/tharushi1019/ITBIN-2211-0202)
 - Created an **MVC-based lesson planner system** to organize lesson schedules.
