@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Tharushi
 
-Welcome to my GitHub! I am a passionate **Web Developer** and **UI/UX Enthusiast** with a focus on creating beautiful and interactive web applications. Currently, I am pursuing a **BSc (Hons) in Information Technology** at **Horizon Campus**, where I am honing my skills in **Software Development**.
+Welcome to my GitHub! I am a passionate **Web Developer** and **UI/UX Enthusiast** with a focus on creating beautiful and interactive web applications.
 
 ## 🚀 About Me
 
@@ -9,7 +9,6 @@ Welcome to my GitHub! I am a passionate **Web Developer** and **UI/UX Enthusiast
 - 💼 I'm looking for **internship** opportunities to further expand my knowledge and gain real-world experience in the industry.
 - 🎯 I'm passionate about building responsive, user-friendly websites that provide a seamless user experience.
 - ✨ I’ve worked on several exciting projects like a **Bakery Shop Website**, **Java Lesson Planner**, and **Website Redesign for Daily Mirror**.
-- 📚 Check out my **fanfiction** writing, where I bring characters to life through emotional and dramatic stories.
 
 ## 🛠️ Skills & Technologies
 
@@ -23,14 +22,10 @@ Welcome to my GitHub! I am a passionate **Web Developer** and **UI/UX Enthusiast
 
 
 ### 1. [Portfolio Website](https://tharushi1019.github.io/My-Portfolio/)
-- A personal portfolio to showcase my **projects** and **skills**.
-- Built with **React.js** and **Vite** for fast performance and smooth interactions.
-- Responsive and designed with an eye for **UI/UX**.
+- A personal portfolio built with **React.js** and **Vite** for fast performance and smooth interactions.
 
 ### 2. [Oven Crust Bakery Management System (BMS)](https://github.com/tharushi1019/Bakery-Shop-Web)
-- Developed a **dynamic bakery shop website** with **CRUD functionality**.
-- Integrated **admin panel** with **login authentication** and **product management**.
-- Built using **HTML**, **CSS**, **PHP**, and **MySQL**.
+- Developed a **dynamic bakery shop website** with **CRUD functionality** using **HTML**, **CSS**, **PHP**, and **MySQL**.
 
 ### 3. [Java Lesson Planner System](https://github.com/tharushi1019/ITBIN-2211-0202)
 - Created an **MVC-based lesson planner system** to organize lesson schedules.
