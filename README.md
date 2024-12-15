@@ -43,11 +43,6 @@ Feel free to reach out to me if you're interested in **collaborating on projects
 - 📧 Email: [tharushinimnadee19@gmail.com](mailto:tharushinimnadee19@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/t-nimnadi/)
 
-## 💬 Fun Facts
-- I enjoy reading **romantic fanfiction** and writing my own stories.
-- In my free time, I like **exploring new technologies** and **enhancing my UI/UX skills**.
-- I'm always up for a good **challenge** and love to **learn new things**.
-
 ## 📈 GitHub Stats
 
 ![Tharushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tharushi1019&show_icons=true&theme=radical)
