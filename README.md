@@ -9,7 +9,7 @@ I’m passionate about building **responsive**, **user-friendly**, and **creativ
 ## 💼 About Me  
 - 📚 Currently working on my **Final Year Project – BrandyBot (AI Branding Toolkit)**.  
 - 🚀 Continuously learning **JavaScript**, **React**, **Node.js**, and modern **UI/UX** principles.  
-- 🌱 Actively seeking an **Internship** to grow my skills and contribute to real-world projects.  
+- 🌱 Actively seeking an **Opportunity** to grow my skills and contribute to real-world projects.  
 - 🎯 Focused on crafting **beautiful**, **interactive**, and **impactful** applications.  
 
 ---
