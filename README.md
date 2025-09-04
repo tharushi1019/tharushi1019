@@ -47,36 +47,40 @@ I’m passionate about building **responsive**, **user-friendly**, and **creativ
   - **Tech Stack**: React, Node.js, MongoDB, Firebase, Python (AI/ML), Stable Diffusion  
 
 - 🌟 **[Portfolio Website](https://tharushi1019.github.io/My-Portfolio/)**  
-  Personal portfolio built with **React.js + Vite** showcasing my journey, projects, and skills.  
+  Personal portfolio showcasing my journey, projects, and skills.  
+  - **Tech Stack**: React.js, Vite, CSS, HTML  
 
 - 🍞 **[Oven Crust Bakery Management System](https://github.com/tharushi1019/Bakery-Shop-Web)**  
-  A **PHP + MySQL** dynamic bakery website with **CRUD** functionality and user management.  
+  Dynamic bakery website with **CRUD functionality** and user management.  
+  - **Tech Stack**: PHP, MySQL, JavaScript, HTML, CSS  
 
 - 📅 **[Java Lesson Planner System](https://github.com/tharushi1019/ITBIN-2211-0202)**  
-  MVC-based **Java + MySQL** system for lesson scheduling and organization.  
+  MVC-based system for scheduling and organizing lessons.  
+  - **Tech Stack**: Java, MySQL  
 
 - ✨ **[Daily Mirror Website Redesign (Figma)](https://www.figma.com/design/dR8owZfqFdsR9pYQPl5dDr/Redesign-DailyMirror.lk-Website?node-id=0-1&t=SnDvxwsWIq8fnuS1-1)**  
-  UI/UX redesign of Daily Mirror website for improved readability, accessibility, and navigation.  
+  UI/UX redesign for improved readability, navigation, and accessibility.  
+  - **Tech Stack**: Figma, UI/UX Design  
 
 - 🧠 **[Mental Health Model Training](https://github.com/tharushi1019/Mental-Health-Model-Training)**  
-  Jupyter Notebook project for training models on mental health datasets.  
+  Training machine learning models on mental health datasets.  
   - **Tech Stack**: Python, Jupyter Notebook, Machine Learning  
 
 - 🌍 **[GeoInsight Dashboard](https://github.com/tharushi1019/GeoInsightDashboard)**  
-  Geography-based data aggregator providing interactive dashboards for spatial insights.  
+  Geography-based data aggregator with interactive visual dashboards.  
   - **Tech Stack**: JavaScript, HTML, CSS, Chart.js  
 
 - 📱 **[HerVoice](https://github.com/tharushi1019/HerVoice)**  
-  Mobile app to support **UN SDG 5 (Gender Equality)** by enhancing women's safety. Users can share live location and emergency alerts.  
+  Mobile app supporting **UN SDG 5 (Gender Equality)** by enhancing women's safety.  
   - **Tech Stack**: Java, Android Studio, Firebase  
 
 - 🟣 **[FastAPI Iris App](https://github.com/tharushi1019/fastapi-iris-app)**  
-  ML model inference project using **FastAPI** to classify iris dataset samples.  
+  ML model inference project classifying iris dataset samples using an API.  
   - **Tech Stack**: Python, FastAPI, Scikit-learn  
 
 - 📊 **[Machine Learning for Academic Risk Prediction](https://github.com/tharushi1019/Machine-Learning-for-Academic-Risk-Prediction)**  
-  Jupyter Notebook project predicting academic performance risks with ML models and explainability tools.  
-  - **Tech Stack**: Python, Jupyter Notebook, XGBoost, Random Forest, SHAP/LIME  
+  Predicting academic performance risks with machine learning models and explainability tools.  
+  - **Tech Stack**: Python, Jupyter Notebook, XGBoost, Random Forest, SHAP, LIME  
 
 ---
 
