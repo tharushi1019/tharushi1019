@@ -7,7 +7,7 @@ I'm passionate about crafting responsive, user-friendly web applications with a 
 ---
 
 ## 💼 About Me
-- 📚 Currently building my **portfolio** using **React.js** & **Vite**.
+- 📚 Currently building my **Final Project - BrandyBot**.
 - 🚀 Always learning **JavaScript**, **React**, **PHP**, **MySQL**, and **UI/UX** principles.
 - 🌱 Seeking **internship** opportunities to grow and contribute to exciting projects.
 - 🌟 Focused on creating **beautiful** and **interactive** web applications.
