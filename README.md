@@ -96,8 +96,6 @@ I’m passionate about building **responsive**, **user-friendly**, and **creativ
 ## 📈 Profile Insights  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushi1019&theme=radical" height="160" />
-  <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tharushi1019&theme=radical" alt="Profile Summary Graph" />
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=tharushi1019&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views Badge" />
