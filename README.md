@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Tharushi  
 
-### 🌐 Web Developer | 💡 UI/UX Enthusiast | 🚀 Aspiring Software Engineer  
+### 🌐 IT Undergraduate | 💡 Full-Stack & AI Project Developer | 🚀 Aspiring Software Engineer  
 
-I’m passionate about building **responsive**, **user-friendly**, and **creative** web applications with a strong eye for **design and usability**.  
+I’m passionate about building **responsive**, **user-friendly**, and **impactful** web and AI-powered applications. My focus is on combining **technical skills** with **design and usability** for real-world solutions.
 
 ---
 
 ## 💼 About Me  
 - 📚 Currently working on my **Final Year Project – BrandyBot (AI Branding Toolkit)**.  
-- 🚀 Continuously learning **JavaScript**, **React**, **Node.js**, and modern **UI/UX** principles.  
-- 🌱 Actively seeking an **Opportunity** to grow my skills and contribute to real-world projects.  
-- 🎯 Focused on crafting **beautiful**, **interactive**, and **impactful** applications.  
+- 🚀 Experienced in full-stack web development, AI/ML systems, and mobile applications.  
+- 🌱 Actively seeking **Software Engineer / IT Intern** opportunities to apply my skills and grow in real-world projects.  
+- 🎯 Skilled in leading academic teams, coordinating projects, and delivering impactful solutions.  
 
 ---
 
@@ -20,7 +20,8 @@ I’m passionate about building **responsive**, **user-friendly**, and **creativ
   - AI-powered branding toolkit  
   - Features: Logo Generator 🎨, Brand Guideline Creator 📘, Mockup Generator 📱, Chatbot 💬  
   - **Tech Stack**: React, Node.js, MongoDB, Firebase, Python (AI/ML), Stable Diffusion  
-  - 🎯 Goal: Empower startups and small businesses with professional branding solutions  
+  - 🎯 Goal: Enable startups and non-designers to create professional branding solutions  
+  - ⚠️ *Project is still in development*  
 
 ---
 
@@ -38,49 +39,33 @@ I’m passionate about building **responsive**, **user-friendly**, and **creativ
 
 ## 📝 Featured Projects  
 
-- 🤖 **BrandyBot (In Progress)**  
-  My **Final Year Project** – An **AI-powered Branding Toolkit** featuring:  
-  - AI Logo Generator 🎨  
-  - AI Brand Guideline Creator 📘  
+- 🤖 **BrandyBot – AI Branding Toolkit (In Progress)**  
+  AI-powered platform featuring:  
+  - Logo Generator 🎨  
+  - Brand Guideline Creator 📘  
   - Responsive Mockup Generator 📱  
   - Interactive AI Chatbot 💬  
   - **Tech Stack**: React, Node.js, MongoDB, Firebase, Python (AI/ML), Stable Diffusion  
 
 - 🌟 **[Portfolio Website](https://tharushi1019.github.io/My-Portfolio/)**  
-  Personal portfolio showcasing my journey, projects, and skills.  
+  Personal portfolio to showcase projects, skills, and development journey.  
   - **Tech Stack**: React.js, Vite, CSS, HTML  
 
-- 🍞 **[Oven Crust Bakery Management System](https://github.com/tharushi1019/Bakery-Shop-Web)**  
-  Dynamic bakery website with **CRUD functionality** and user management.  
-  - **Tech Stack**: PHP, MySQL, JavaScript, HTML, CSS  
-
-- 📅 **[Java Lesson Planner System](https://github.com/tharushi1019/ITBIN-2211-0202)**  
-  MVC-based system for scheduling and organizing lessons.  
-  - **Tech Stack**: Java, MySQL  
-
-- ✨ **[Daily Mirror Website Redesign (Figma)](https://www.figma.com/design/dR8owZfqFdsR9pYQPl5dDr/Redesign-DailyMirror.lk-Website?node-id=0-1&t=SnDvxwsWIq8fnuS1-1)**  
-  UI/UX redesign for improved readability, navigation, and accessibility.  
-  - **Tech Stack**: Figma, UI/UX Design  
-
-- 🧠 **[Mental Health Model Training](https://github.com/tharushi1019/Mental-Health-Model-Training)**  
-  Training machine learning models on mental health datasets.  
-  - **Tech Stack**: Python, Jupyter Notebook, Machine Learning  
-
 - 🌍 **[GeoInsight Dashboard](https://github.com/tharushi1019/GeoInsightDashboard)**  
-  Geography-based data aggregator with interactive visual dashboards.  
-  - **Tech Stack**: JavaScript, HTML, CSS, Chart.js  
+  Full-stack geography-based dashboard displaying interactive analytics.  
+  - **Tech Stack**: React, Vite, Node.js, Express, MongoDB, Auth0  
 
-- 📱 **[HerVoice](https://github.com/tharushi1019/HerVoice)**  
-  Mobile app supporting **UN SDG 5 (Gender Equality)** by enhancing women's safety.  
+- 🧑‍💻 **[HerVoice – Safety Mobile App](https://github.com/tharushi1019/HerVoice)**  
+  Mobile safety app supporting **UN SDG 5 (Gender Equality)**, with emergency alert functionality.  
   - **Tech Stack**: Java, Android Studio, Firebase  
 
-- 🟣 **[FastAPI Iris App](https://github.com/tharushi1019/fastapi-iris-app)**  
-  ML model inference project classifying iris dataset samples using an API.  
-  - **Tech Stack**: Python, FastAPI, Scikit-learn  
-
-- 📊 **[Machine Learning for Academic Risk Prediction](https://github.com/tharushi1019/Machine-Learning-for-Academic-Risk-Prediction)**  
-  Predicting academic performance risks with machine learning models and explainability tools.  
+- 📊 **[Academic Risk Prediction System](https://github.com/tharushi1019/Machine-Learning-for-Academic-Risk-Prediction)**  
+  ML-powered system predicting academic performance risks with explainable AI techniques.  
   - **Tech Stack**: Python, Jupyter Notebook, XGBoost, Random Forest, SHAP, LIME  
+
+- 🍞 **[Oven Crust Bakery Management System](https://github.com/tharushi1019/Bakery-Shop-Web)**  
+  Web-based bakery system with **CRUD operations** and team collaboration.  
+  - **Tech Stack**: PHP, MySQL, JavaScript, HTML, CSS  
 
 ---
 
@@ -105,9 +90,10 @@ I’m passionate about building **responsive**, **user-friendly**, and **creativ
 
 ## 🤝 Let’s Connect!  
 
-- 📧 **Email**: [tharushinimnadee19@gmail.com](mailto:tharushinimnadee19@gmail.com)  
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/t-nimnadi/)**  
+- 📧 Email: [tharushinimnadi.k@gmail.com](mailto:tharushinimnadi.k@gmail.com)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/tharushinimnadi19](https://www.linkedin.com/in/tharushinimnadi19)  
+- 🌐 Portfolio: [https://tharushi1019.github.io/My-Portfolio/](https://tharushi1019.github.io/My-Portfolio/)  
 
 ---
 
-✨ *Thanks for visiting my profile! Explore my repositories and let’s collaborate on exciting projects!* 🚀
+✨ *Thanks for visiting my profile! Explore my projects and let’s collaborate on impactful software solutions.* 🚀
