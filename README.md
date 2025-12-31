@@ -4,15 +4,12 @@
 
 I’m passionate about building **responsive**, **user-friendly**, and **impactful** web and AI-powered applications. My focus is on combining **technical skills** with **design and usability** for real-world solutions.
 
----
-
 ## 💼 About Me  
 - 📚 Currently working on my **Final Year Project – BrandyBot (AI Branding Toolkit)**.  
 - 🚀 Experienced in full-stack web development, AI/ML systems, and mobile applications.  
 - 🌱 Actively seeking **Software Engineer / IT Intern** opportunities to apply my skills and grow in real-world projects.  
 - 🎯 Skilled in leading academic teams, coordinating projects, and delivering impactful solutions.  
 
----
 
 ## 🔄 Currently Working On  
 
@@ -23,7 +20,6 @@ I’m passionate about building **responsive**, **user-friendly**, and **impactf
   - 🎯 Goal: Enable startups and non-designers to create professional branding solutions  
   - ⚠️ *Project is still in development*  
 
----
 
 ## 🛠️ Tech Stack & Skills  
 
@@ -35,7 +31,6 @@ I’m passionate about building **responsive**, **user-friendly**, and **impactf
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xd,postman,wordpress" height="45" alt="Tools" />
 </p>
 
----
 
 ## 📝 Featured Projects  
 
@@ -67,7 +62,6 @@ I’m passionate about building **responsive**, **user-friendly**, and **impactf
   Web-based bakery system with **CRUD operations** and team collaboration.  
   - **Tech Stack**: PHP, MySQL, JavaScript, HTML, CSS  
 
----
 
 ## 📊 GitHub Stats  
 
@@ -76,7 +70,6 @@ I’m passionate about building **responsive**, **user-friendly**, and **impactf
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi1019&layout=compact&theme=radical" height="160" />
 </p>
 
----
 
 ## 📈 Profile Insights  
 
@@ -86,7 +79,6 @@ I’m passionate about building **responsive**, **user-friendly**, and **impactf
   <img src="https://komarev.com/ghpvc/?username=tharushi1019&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views Badge" />
 </p>
 
----
 
 ## 🤝 Let’s Connect!  
 
