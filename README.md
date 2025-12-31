@@ -47,7 +47,7 @@ I’m passionate about building **responsive**, **user-friendly**, and **impactf
   - **Tech Stack**: React.js, Vite, CSS, HTML  
 
 - 🌍 **[GeoInsight Dashboard](https://github.com/tharushi1019/GeoInsightDashboard)**  
-  Full-stack geography-based dashboard displaying interactive analytics.  
+  Full-stack geography-based dashboard displaying comprehensive insights about countries worldwide.  
   - **Tech Stack**: React, Vite, Node.js, Express, MongoDB, Auth0  
 
 - 🧑‍💻 **[HerVoice – Safety Mobile App](https://github.com/tharushi1019/HerVoice)**  
